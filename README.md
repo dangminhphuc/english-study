@@ -3,10 +3,11 @@
 ## TOC
 
 Tense
-    - [Present simple](tenses/present-simple.md)
-    - [Present continuous](tenses/present-continuous.md)
-    - [Present perfect simple](tenses/present-perfect-simple.md)
-    - [Past simple](tenses/past-simple.md)
-    - [Past continuous](tenses/past-continuous.md)
-    - [Past perfect simple](tenses/past-perfect-simple.md)
-    - [Future time](tenses/future-time.md)
+
+- [Present simple](tenses/present-simple.md)
+- [Present continuous](tenses/present-continuous.md)
+- [Present perfect simple](tenses/present-perfect-simple.md)
+- [Past simple](tenses/past-simple.md)
+- [Past continuous](tenses/past-continuous.md)
+- [Past perfect simple](tenses/past-perfect-simple.md)
+- [Future time](tenses/future-time.md)
