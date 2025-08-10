@@ -1,7 +1,5 @@
 # english-study
 
-## TOC
-
 Tense
 
 - [Present simple](tenses/present-simple.md)
