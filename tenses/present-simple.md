@@ -37,7 +37,7 @@ once/ twice a week/month/etc
 three times a week/month/etc
 ```
 
-// Order in the sentence
+Order in the sentence
 
 ```text
 be + adverb
@@ -49,9 +49,11 @@ be + adverb
 
 ## Examples
 
-1. I play billiard every weekend.
-2. She goes to the office every weekdays.
-3. I don’t go to work on weekends.
-4. She doesn’t plays chess.
-5. Do you play billiards?
-6. Does she cook a meal?
+- I play billiard every weekend.
+- She goes to the office every weekdays.
+- I don’t go to work on weekends.
+- She doesn’t plays chess.
+- Do you play billiards?
+- Does she cook a meal?
+
+[TOC](/README.md) | [Tenses](/tenses/README.md) | [Present continuous](tenses/present-continuous.md)
