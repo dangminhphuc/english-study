@@ -56,4 +56,4 @@ be + adverb
 - Do you play billiards?
 - Does she cook a meal?
 
-[TOC](/README.md) | [Tenses](/tenses/README.md) | [Present continuous](tenses/present-continuous.md)
+[TOC](/README.md) | [Tenses](/tenses/README.md) | [Present continuous](present-continuous.md)
