@@ -1,6 +1,6 @@
 # SO & SUCH
 
-> Both **so** & **such** are used to **emphasize level** of something.
+> So and such are used to make something stronger (to emphasize).
 
 ```text
 // adjective, adverb
@@ -10,9 +10,9 @@
 // noun
 ✅ so + **many/much** + noun + [that]
 
-✅ such + **a/an** + adjective + noun        + [that]
-✅ such        + adjective + plural noun + [that]
-✅ such + **a lot of**         + plural noun + [that]
+✅ such + **a/an** + adjective + noun + [that]
+✅ such + adjective + plural noun + [that]
+✅ such + **a lot of** + plural noun + [that]
 ```
 
 ## Examples
