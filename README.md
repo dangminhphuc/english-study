@@ -16,4 +16,4 @@ Adverbs
 
 Preposition
 
-- [time & place](preposition/time-place.md)
+- [time & place](prepositions/time-place.md)
