@@ -14,6 +14,10 @@ Adverbs
 
 - [so, such](adverbs/so-such.md)
 
+Nouns
+
+- [countable, uncountble](nouns/countable-uncountable.md)
+
 Preposition
 
 - [time & place](prepositions/time-place.md)
