@@ -10,6 +10,8 @@ Tense
 - [Past perfect simple](tenses/past-perfect-simple.md)
 - [Future time](tenses/future-time.md)
 
+- [practices](tenses/_practice.md)
+
 Adverbs
 
 - [so, such](adverbs/so-such.md)
