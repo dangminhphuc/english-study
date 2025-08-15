@@ -7,25 +7,27 @@
 
 ## Present Simple
 
-1. Timetables
-
-- I get up at 7AM
-- I join daily meeting at 10.15AM every workday.
-- I get off work at 6PM
+1. **Timetables/Schedules**: used for future events that are fixed by an official timetable, calendar, or schedule — things we **don’t control**.
+    - I join the daily meeting at 10.15AM today.
+    - I get off work at 5PM next Friday.
 
 ## Present Continuous
 
 > S + tobe + V-ing
 
-1. Arrangements
+1. **Arrangements**: used for future plans we have personally arranged or agreed upon — things **we can control** or have organized with others.
+    - I'm joining the daily meeting at 10.15AM today.
+    - I'm getting off work at 5PM next Friday.
 
 ### Watch out
 
-1. Things we want to do in the future but have not arranged are called 'intentions'. We do not use the present continuous for intentions. We use be going to instead.
-    - I’m becoming an explorer when I grow up.
+1. Things we want to do in the future but have not arranged are called 'intentions'. We do not use **the present continuous** for intentions. We use **be going to** instead.
+    - (x) I’m becoming an explorer when I grow up.
+    - (v) I'm going to become an explorer when I grow up.
 
-2. We do not use the present continuous for predictions. We use will or be going to instead.
-    - Do you think you're enjoying your trip to Berlin next week?
+2. We do not use the present continuous for predictions. We use will or **be going to** instead.
+    - (x) Do you think you're enjoying your trip to Berlin next week?
+    - (v) Do you think you’re going to enjoy your trip to Berlin next week?
 
 ### Examples
 
@@ -36,8 +38,6 @@
 ## will
 
 > will + bare infinitive | will + be + V3/ed
-
-### Form
 
 ```text
 (+) S + will +       V
