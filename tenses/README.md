@@ -1,3 +1,0 @@
-# TENSES
-
-## Present simple
