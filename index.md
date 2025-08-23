@@ -1,6 +1,6 @@
 # myself english-study
 
-Tense
+## Tenses
 
 - [Present simple](tenses/present-simple.md)
 - [Present continuous](tenses/present-continuous.md)
@@ -10,17 +10,19 @@ Tense
 - [Past perfect simple](tenses/past-perfect-simple.md)
 - [Future time](tenses/future-time.md)
 
-[practices](tenses/_practice.md)
-
-Adverbs
+## Adverbs
 
 - [so, such](adverbs/so-such.md)
 - [too, enough](adverbs/too-ennough.md)
 
-Nouns
+## Nouns
 
 - [countable, uncountble](nouns/countable-uncountable.md)
 
-Preposition
+## Prepositions
 
 - [time & place](prepositions/time-place.md)
+
+## Practices
+
+- [Tense practices](practices/tense-practices.md)
